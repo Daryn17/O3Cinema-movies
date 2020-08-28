@@ -1,0 +1,6 @@
+framework module Pods_O3Cinema_movies {
+  umbrella header "Pods-O3Cinema-movies-umbrella.h"
+
+  export *
+  module * { export * }
+}
